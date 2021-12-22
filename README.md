@@ -1,5 +1,6 @@
 # Aplikasi Pencatatan Zakat Fitrah Masjid Nurul Iman
-Repository ini berisi sebuah projek berupa aplikasi pencatatan zakat fitrah pada Masjid Nurul Iman berbasis web yang dibuat sesuai dengan kebutuhan pencatatan dari Panitia Zakat Masjid Nurul Iman 
+Repository ini berisi sebuah projek berupa aplikasi pencatatan zakat fitrah pada Masjid Nurul Iman berbasis web yang dibuat sesuai dengan kebutuhan pencatatan dari Panitia Zakat Masjid Nurul Iman.
+# Komponen
 Komponen yang terdapat pada aplikasi ini adalah sebagai berikut:
 - Framework CodeIgniter 3 
 - Bootstrap 4, dengan template SBAdmin2
