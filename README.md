@@ -13,3 +13,17 @@ Pada aplikasi dapat melakukan operasi sebagai berikut:
 - CRUD (Create, Read, Update, Delete) pada halaman Data Panitia, Data Muzakki, dan data mustahik khusus Admin
 - Create pada halaman Data Muzakki khusus Panitia
 
+# Penggunaan Login
+Berikut adalah email dan password dari admin dan panitia yang dapat digunakan untuk login
+
+Admin
+
+email : admin@email.com
+
+pass	: 1234iman
+
+User
+
+email : panitia@email.com
+
+pass	: persona21
